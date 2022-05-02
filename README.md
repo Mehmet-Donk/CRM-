@@ -8,7 +8,7 @@ To this end, the behaviors of the customers will be defined and groups will be f
  #The dataset is based on the past shopping behavior of customers who made their last purchases from OmniChannel (both online and offline) in 2020 - 2021.
  consists of the information obtained.
 
- #master_id: Unique client number
+ #master_id: Unique client number\n
  #order_channel : Which channel of the shopping platform is used (Android, ios, Desktop, Mobile, Offline)
  #last_order_channel : The channel where the last purchase was made
  #first_order_date : The date of the customer's first purchase
