@@ -1,4 +1,4 @@
-# Customer Segmentation with RFM (RFM ile Müşteri Segmentasyonu)
+# CUSTOMER SEGMENTATION WITH RFM (RFM ile Müşteri Segmentasyonu)
 # Business Problem
 
 A company(can't give the name) wants to segment its customers and determine marketing strategies according to these segments.
