@@ -3,7 +3,7 @@
 # What is RFM
 RFM is a customer segmentation model that allows you to segment your customers based on their past purchasing behavior.
 
-#RFM analysis ranks each customer on the following factors:
+RFM analysis ranks each customer on the following factors:
 
 Recency. How recent was the customer's last purchase? Customers who recently made a purchase will still have the product on their mind and are more likely to purchase or use the product again. Businesses often measure recency in days. But, depending on the product, they may measure it in years, weeks or even hours.
 
