@@ -1,3 +1,5 @@
+![RFM-Analysis](https://user-images.githubusercontent.com/84506176/167097057-0db7df7b-0e3a-4f4b-a9ef-9c26689829c8.jpg)
+
 # CUSTOMER SEGMENTATION WITH RFM (RFM ile Müşteri Segmentasyonu)
 
 # What is RFM
