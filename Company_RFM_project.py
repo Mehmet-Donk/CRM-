@@ -67,7 +67,7 @@ df.sort_values("TotalValue", ascending=False).iloc[0:10,12:13]
 
 # 8. Data preparation process functionalized
 
-def on_hazırlık(dataframe):
+def preparation(dataframe):
     dataframe.columns
     dataframe.describe().T
     dataframe.isnull().sum()
@@ -87,7 +87,7 @@ def on_hazırlık(dataframe):
     return df3,df2,df4
 
 df=df_.copy()
-on_hazırlık(df)
+preparation(df)
 
 
 #  CALCULATING RFM METRICS
